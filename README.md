@@ -1,4 +1,13 @@
-# Hola 👋, soy Danyareva ✨
+# Hola 👋, soy Daniel Arévalo/Danyareva ✨
+📘 Facebook
+
+📷 Instagram
+
+📧 Gmail
+
+🎵 TikTok
+
+📞 Teléfono
 
 ## Sobre mí 😃
 
