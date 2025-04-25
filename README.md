@@ -1,13 +1,4 @@
 # Hola 👋, soy Daniel Arévalo/Danyareva ✨
-📘 Facebook
-
-📷 Instagram
-
-📧 Gmail
-
-🎵 TikTok
-
-📞 Teléfono
 
 ## Sobre mí 😃
 
@@ -24,6 +15,19 @@
 Manejo de Tencologías como: 
 ---
 [![My Skills](https://skillicons.dev/icons?i=arduino,cpp,c,cs,html,java,github,sublime,vscode,visualstudio)](https://skillicons.dev)
+
+---
+Experiencia laboral
+---
+Manejo de camaras televisivas, con diferentes tecnicas o metodos de grabación. 
+Canal 27 
+
+## 📺 Canal 27 Guatemala
+[![Canal 27 Guatemala](https://www.canal27.org/wp-content/uploads/2021/01/logo-canal-27.png)](https://www.canal27.org/)
+
+🎥 Transmitiendo esperanza a Guatemala y al mundo.
+
+
 ## 📱 Redes sociales y contacto
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1H9KGCaztj/?mibextid=wwXIfr)
@@ -33,7 +37,6 @@ Manejo de Tencologías como:
 [![Teléfono](https://img.shields.io/badge/Teléfono-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+50259723950)
 
 ---
-
 
 
 
