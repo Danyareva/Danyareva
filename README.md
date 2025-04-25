@@ -17,14 +17,13 @@ Manejo de Tencologías como:
 [![My Skills](https://skillicons.dev/icons?i=arduino,cpp,c,cs,html,java,github,sublime,vscode,visualstudio)](https://skillicons.dev)
 
 ---
-Experiencia laboral
+Camarógrafo/Operador de cámara:
 ---
 Manejo de camaras televisivas, con diferentes tecnicas o metodos de grabación. 
 Canal 27 
 
 ## 📺 Canal 27 Guatemala
-[![Canal 27 Guatemala](https://www.canal27.org/wp-content/uploads/2021/01/logo-canal-27.png)](https://www.canal27.org/)
-
+(https://www.canal27.org/)
 🎥 Transmitiendo esperanza a Guatemala y al mundo.
 
 
