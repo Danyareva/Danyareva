@@ -16,8 +16,9 @@ Manejor de Tencologías como:
 ---
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-|       `css`        |        <img src="./icons/CSS.svg" width="48">         |
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=arduino,cpp,c,cs,html,github,sublime,vscode,visualstudio)](https://skillicons.dev)
+
 
 
 
